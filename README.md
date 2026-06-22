@@ -1,1 +1,1 @@
-A simple project created for learning and practicing Git and GitHub.
+# git-clone-practice
