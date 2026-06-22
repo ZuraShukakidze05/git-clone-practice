@@ -1,1 +1,1 @@
-A simple project created for learning and practicing Git and GitHub.
+This is a simple test project created for Git and GitHub practice.
